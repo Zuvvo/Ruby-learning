@@ -26,7 +26,7 @@ while attempts < max_attempts
   username = gets.chomp
   print "Password: "
   password = gets.chomp
-  authentication = auth_user(username,password, users)
+  authentication = auth_user(username, password, users)
   puts authentication
 #  input = gets.chomp.downcase
 #  break if input == "n"
