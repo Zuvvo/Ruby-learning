@@ -9,15 +9,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Learning_ruby@main.rcov" NAME="main Coverage Results" MODIFIED="1548201968036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Learning-ruby" />
+    <SUITE FILE_PATH="coverage/Learning_ruby@main.rcov" NAME="main Coverage Results" MODIFIED="1548202189800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Learning-ruby" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -30,7 +30,6 @@
         <option value="Zuvvo" />
       </list>
     </option>
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -116,7 +115,8 @@
       <option name="presentableId" value="Default" />
       <updated>1548199268405</updated>
       <workItem from="1548199276847" duration="1382000" />
-      <workItem from="1548200739975" duration="1211000" />
+      <workItem from="1548200739975" duration="928000" />
+      <workItem from="1548202133694" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1548200887920</created>
@@ -132,29 +132,29 @@
       <option name="project" value="LOCAL" />
       <updated>1548200973022</updated>
     </task>
-    <task id="LOCAL-00003" summary="gittest">
-      <created>1548201921195</created>
+    <task id="LOCAL-00003" summary="first">
+      <created>1548202246587</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1548201921195</updated>
+      <updated>1548202246587</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2593000" />
+    <option name="totallyTimeSpent" value="2613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="195" y="38" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26268658" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26641792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -175,14 +175,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <MESSAGE value="gittest" />
-    <option name="LAST_COMMIT_MESSAGE" value="gittest" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
