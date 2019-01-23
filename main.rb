@@ -1,1 +1,1 @@
-puts "test test"
+puts "test"
